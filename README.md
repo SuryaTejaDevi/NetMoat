@@ -92,3 +92,4 @@ NetMoat is intended strictly for educational, research, and authorized security 
 Always ensure you have explicit permission before scanning or monitoring networks that you do not own or manage.
 
 Unauthorized scanning of networks may violate local laws or organizational policies
+
