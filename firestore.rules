@@ -1,0 +1,17 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // Global settings: Read-only for authenticated users
+    match /global/{document=**} {
+      allow read: if request.auth != null;
+      allow write: if false;
+    }
+
+    // User Data: Isolated per User ID
+    match /users/{userId}/{document=**} {
+      allow read, write: if request.auth != null
+                          && request.auth.uid == userId;
+    }
+  }
+}

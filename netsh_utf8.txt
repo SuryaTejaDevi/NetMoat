@@ -1,0 +1,261 @@
+﻿ 
+Interface name : Wi-Fi 
+There are 13 networks currently visible. 
+
+SSID 1 : AR BS3 _5G
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 24:2f:d0:bd:21:80
+         Signal             : 5%  
+         Radio type         : 802.11ac
+         Band               : 5 GHz
+         Channel            : 161 
+         QoS MSCS Supported    : 0
+         QoS Map Supported     : 0
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+
+SSID 2 : Reddysboys 3/2g
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 78:8c:b5:92:a4:4b
+         Signal             : 6%  
+         Radio type         : 802.11n
+         Band               : 2.4 GHz
+         Channel            : 1 
+         Bss Load:
+             Connected Stations:         3
+             Channel Utilization:        35 (13 %)
+             Medium Available Capacity:  31250 (1000000 us/s)
+         QoS MSCS Supported    : 0
+         QoS Map Supported     : 0
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 3 : skrboyshostel2 _5G
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 30:68:93:88:1a:a2
+         Signal             : 9%  
+         Radio type         : 802.11ac
+         Band               : 5 GHz
+         Channel            : 153 
+         QoS MSCS Supported    : 0
+         QoS Map Supported     : 0
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+
+SSID 4 : 
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 32:68:93:e8:1a:a0
+         Signal             : 12%  
+         Radio type         : 802.11ac
+         Band               : 5 GHz
+         Channel            : 153 
+         QoS MSCS Supported    : 0
+         QoS Map Supported     : 0
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+    BSSID 2                 : 32:68:93:a8:1a:a0
+         Signal             : 57%  
+         Radio type         : 802.11ac
+         Band               : 2.4 GHz
+         Channel            : 2 
+         Bss Load:
+             Connected Stations:         9
+             Channel Utilization:        0 (0 %)
+             Medium Available Capacity:  31250 (1000000 us/s)
+         QoS MSCS Supported    : 0
+         QoS Map Supported     : 0
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+    BSSID 3                 : 5e:62:8b:a5:98:f1
+         Signal             : 72%  
+         Radio type         : 802.11ac
+         Band               : 5 GHz
+         Channel            : 48 
+         Bss Load:
+             Connected Stations:         5
+             Channel Utilization:        0 (0 %)
+             Medium Available Capacity:  31250 (1000000 us/s)
+         QoS MSCS Supported    : 0
+         QoS Map Supported     : 0
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+    BSSID 4                 : 5e:62:8b:a5:98:f2
+         Signal             : 78%  
+         Radio type         : 802.11n
+         Band               : 2.4 GHz
+         Channel            : 3 
+         Bss Load:
+             Connected Stations:         4
+             Channel Utilization:        29 (11 %)
+             Medium Available Capacity:  31250 (1000000 us/s)
+         QoS MSCS Supported    : 0
+         QoS Map Supported     : 0
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 5 : Reddysboys 3/1 5g
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 78:8c:b5:92:ba:10
+         Signal             : 12%  
+         Radio type         : 802.11ac
+         Band               : 5 GHz
+         Channel            : 48 
+         Bss Load:
+             Connected Stations:         9
+             Channel Utilization:        0 (0 %)
+             Medium Available Capacity:  31250 (1000000 us/s)
+         QoS MSCS Supported    : 0
+         QoS Map Supported     : 0
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+
+SSID 6 : Swarn3_2.4G
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 20:23:51:c3:9d:d6
+         Signal             : 42%  
+         Radio type         : 802.11ac
+         Band               : 2.4 GHz
+         Channel            : 4 
+         Bss Load:
+             Connected Stations:         3
+             Channel Utilization:        0 (0 %)
+             Medium Available Capacity:  31250 (1000000 us/s)
+         QoS MSCS Supported    : 0
+         QoS Map Supported     : 0
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 7 : skrboyshostel2 2g
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 30:68:93:88:1a:a0
+         Signal             : 60%  
+         Radio type         : 802.11ac
+         Band               : 2.4 GHz
+         Channel            : 2 
+         Bss Load:
+             Connected Stations:         9
+             Channel Utilization:        0 (0 %)
+             Medium Available Capacity:  31250 (1000000 us/s)
+         QoS MSCS Supported    : 0
+         QoS Map Supported     : 0
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 8 : Reddy boys 3/1 2g
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 78:8c:b5:92:ba:11
+         Signal             : 60%  
+         Radio type         : 802.11n
+         Band               : 2.4 GHz
+         Channel            : 11 
+         Bss Load:
+             Connected Stations:         1
+             Channel Utilization:        97 (38 %)
+             Medium Available Capacity:  31250 (1000000 us/s)
+         QoS MSCS Supported    : 0
+         QoS Map Supported     : 0
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 9 : Ayaansh reddy 2nd floor_5G
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 5c:62:8b:95:98:f1
+         Signal             : 72%  
+         Radio type         : 802.11ac
+         Band               : 5 GHz
+         Channel            : 48 
+         Bss Load:
+             Connected Stations:         6
+             Channel Utilization:        0 (0 %)
+             Medium Available Capacity:  31250 (1000000 us/s)
+         QoS MSCS Supported    : 0
+         QoS Map Supported     : 0
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+
+SSID 10 : Ayaansh reddy 2nd floor-2. 4G
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 5c:62:8b:95:98:f2
+         Signal             : 78%  
+         Radio type         : 802.11n
+         Band               : 2.4 GHz
+         Channel            : 3 
+         Bss Load:
+             Connected Stations:         4
+             Channel Utilization:        29 (11 %)
+             Medium Available Capacity:  31250 (1000000 us/s)
+         QoS MSCS Supported    : 0
+         QoS Map Supported     : 0
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 11 : Ayaansh Reddy 2nd floor 2G
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 20:0c:86:37:04:11
+         Signal             : 79%  
+         Radio type         : 802.11n
+         Band               : 2.4 GHz
+         Channel            : 10 
+         Bss Load:
+             Connected Stations:         3
+             Channel Utilization:        20 (7 %)
+             Medium Available Capacity:  0 (0 us/s)
+         QoS MSCS Supported    : 0
+         QoS Map Supported     : 0
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 12 : Helping Poor Is My Passion 
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : ae:0c:db:26:c6:4d
+         Signal             : 89%  
+         Radio type         : 802.11ac
+         Band               : 2.4 GHz
+         Channel            : 10 
+         QoS MSCS Supported    : 0
+         QoS Map Supported     : 0
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 13 : Ayaansh Reddy 2nd floor 5G
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 20:0c:86:37:04:10
+         Signal             : 63%  
+         Radio type         : 802.11ac
+         Band               : 5 GHz
+         Channel            : 36 
+         Bss Load:
+             Connected Stations:         3
+             Channel Utilization:        7 (2 %)
+             Medium Available Capacity:  0 (0 us/s)
+         QoS MSCS Supported    : 0
+         QoS Map Supported     : 0
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+
