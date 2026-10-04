@@ -1100,20 +1100,3 @@ Security Alerts
         +
 Active Defense
 ```
-
-into a unified Wi-Fi security monitoring platform.
-
-```
-
- One important correction I made
-
-I didn't market the ML component as fully production-integrated, because the actual code doesn't justify that claim. The server contains ONNX loading and `/api/predict`, but the ML section inside the main continuous network-processing loop is currently commented out. Also, the repository contains `knn_model.onnx` and `isolation_forest.pkl`, while the server's loader looks for `isolation_forest.onnx`; that's a real implementation mismatch that shouldn't be hidden in a professional README. :contentReference[oaicite:2]{index=2}
-
-The README also reflects the actual Windows scanning mechanism—`netsh wlan show networks`, BSSID parsing, saved-profile discovery, current connection detection, and `netsh wlan disconnect`—rather than pretending this is a cross-platform Wi-Fi scanner. :contentReference[oaicite:3]{index=3}
-
-The Firebase sections are also based on the actual persistence layer and Firestore rules: sessions, discovered networks, security events, settings, blacklist entries, and per-user UID isolation are present in the code. :contentReference[oaicite:4]{index=4}
-
-:contentReference[oaicite:5]{index=5}
-```
-
-[1]: https://github.com/SuryaTejaDevi/NetMoat "GitHub - SuryaTejaDevi/NetMoat · GitHub"
